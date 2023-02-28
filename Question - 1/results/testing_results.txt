@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  cleaned_data$Age and cleaned_data$Grip.Strength
+t = 1.0366, df = 3, p-value = 0.3761
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -16.04309  31.54309
+sample estimates:
+mean difference 
+           7.75 
+
